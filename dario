@@ -1,0 +1,22 @@
+#!/bin/bash
+wget https://pastebin.com/raw/5tiJs5mk -O /bin/criarusuario
+	dos2unix /bin/criarusuario
+	chmod +x /bin/criarusuario
+	wget https://pastebin.com/raw/gS1Bcy0f -O /bin/apagar
+	dos2unix /bin/apagar
+	chmod +x /bin/apagar
+	wget https://pastebin.com/raw/yD3HfFqu -O /bin/monitor
+	dos2unix /bin/monitor
+	chmod +x /bin/monitor
+	wget https://pastebin.com/raw/6XPm3Ra1 -O /bin/mudardata
+	dos2unix /bin/mudardata
+	chmod +x /bin/mudardata
+	wget https://pastebin.com/raw/iXFLGpCt -O /bin/sshlimiter
+	dos2unix /bin/sshlimiter
+	chmod +x /bin/sshlimiter
+	wget https://pastebin.com/raw/BtDm4m3Z -O /bin/ajuda
+	dos2unix /bin/ajuda
+	chmod +x /bin/ajuda
+	wget https://pastebin.com/raw/KupWKxNW -O /bin/desinstalar
+	dos2unix /bin/desinstalar
+	chmod +x /bin/desinstalar
